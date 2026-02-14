@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Khrusanth <br>Final-year CSE student and an aspiring developer passionate about building innovative solutions.</h2>
+<h2 align="center">Hi 👋! My name is Khrusanth <br>An aspiring developer passionate about building innovative solutions.</h2>
 
 ###
 
